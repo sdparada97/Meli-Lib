@@ -42,6 +42,6 @@ POLICY -LIFO:
 
 ## Licencia
 
-Incluye información sobre la licencia bajo la cual se distribuye tu proyecto. Esto es importante para que los usuarios sepan cómo pueden usar y modificar tu código.
 MIT License
+
 Copyright (c) 2023 Tu Nombre
