@@ -1,6 +1,6 @@
-# Nombre del Proyecto
+# Meli - Lib
 
-Una breve descripción de lo que hace tu proyecto y qué problemas resuelve.
+Libreria para manejar el buffer con COLAS o PILAS
 
 ## Tabla de Contenidos
 
