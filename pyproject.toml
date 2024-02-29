@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+
+[project]
+name = "meli_lib"
+version = "0.1.0"
+description = "A Meli Lib for a test"
+authors = [
+ {name = "Sergio Parada", email = "sdparada97@gmail.com"},
+]
+license = {text = "MIT License"}
+readme = "README.md"
+classifiers = [
+ "Development Status :: 3 - Alpha",
+ "Intended Audience :: Developers",
+ "License :: OSI Approved :: MIT License",
+ "Programming Language :: Python :: 3.7",
+ "Programming Language :: Python :: 3.8",
+ "Programming Language :: Python :: 3.9",
+]
+requires-python = ">=3.7"
+dependencies = [
+ "flake8",
+ "pytest",
+]

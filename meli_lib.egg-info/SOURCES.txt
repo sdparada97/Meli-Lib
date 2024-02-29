@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+meli_lib/__init__.py
+meli_lib/meli.py
+meli_lib.egg-info/PKG-INFO
+meli_lib.egg-info/SOURCES.txt
+meli_lib.egg-info/dependency_links.txt
+meli_lib.egg-info/requires.txt
+meli_lib.egg-info/top_level.txt
